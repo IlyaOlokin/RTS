@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\RTS" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Edit" t="Include">
+          <e p="SnapTool.cs" t="Include" />
+        </e>
+        <e p="NavMeshComponents" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NavMeshAssetManager.cs" t="Include" />
+            <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+            <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+            <e p="NavMeshLinkEditor.cs" t="Include" />
+            <e p="NavMeshModifierEditor.cs" t="Include" />
+            <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="NavMeshComponents.asmdef" t="Include" />
+            <e p="NavMeshLink.cs" t="Include" />
+            <e p="NavMeshModifier.cs" t="Include" />
+            <e p="NavMeshModifierVolume.cs" t="Include" />
+            <e p="NavMeshSurface.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AlarmerUnit.cs" t="Include" />
+          <e p="AmountOfUnits.cs" t="Include" />
+          <e p="Animations" t="Include">
+            <e p="DeathEffect.cs" t="Include" />
+            <e p="DestroyObj.cs" t="Include" />
+            <e p="LvlUpArrow.cs" t="Include" />
+            <e p="PointMoveAnim.cs" t="Include" />
+          </e>
+          <e p="Arrow.cs" t="Include" />
+          <e p="CameraMove.cs" t="Include" />
+          <e p="Camp.cs" t="Include" />
+          <e p="Core" t="Include">
+            <e p="ArmyManager.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="Interface.cs" t="Include" />
+            <e p="Mose.cs" t="Include" />
+            <e p="RestartSessionAndStore.cs" t="Include" />
+          </e>
+          <e p="EnemySpot.cs" t="Include" />
+          <e p="GameMenu.cs" t="Include" />
+          <e p="HealZone.cs" t="Include" />
+          <e p="Icon.cs" t="Include" />
+          <e p="LookAtCameraForCanvas.cs" t="Include" />
+          <e p="PermanentBuffs.cs" t="Include" />
+          <e p="RebakePoint.cs" t="Include" />
+          <e p="SaveLoadManager.cs" t="Include" />
+          <e p="SideQuests" t="Include">
+            <e p="Cottage" t="Include">
+              <e p="ShopInterface.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Snap" t="Include">
+            <e p="SnapableObj.cs" t="Include" />
+            <e p="SnapPoint.cs" t="Include" />
+          </e>
+          <e p="Units" t="Include">
+            <e p="Archer.cs" t="Include" />
+            <e p="Axeman.cs" t="Include" />
+            <e p="Spearman.cs" t="Include" />
+            <e p="SwordShield.cs" t="Include" />
+            <e p="TwoHanded.cs" t="Include" />
+            <e p="Unit.cs" t="Include" />
+            <e p="Villager.cs" t="Include" />
+            <e p="Warrior.cs" t="Include" />
+          </e>
+          <e p="UnitSpawner.cs" t="Include" />
+          <e p="UnitsStats.cs" t="Include" />
+          <e p="Village.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RTS.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\User\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_RTS.-2026414060.00" t="ExcludeRecursive" />
+  </component>
+</project>
